@@ -6,7 +6,7 @@ Top IAS Coaching in Delhi – Plutus IAS
 
 Plutus IAS is one of the Top IAS Coaching institutes in Delhi, offering comprehensive UPSC preparation for aspirants aiming for success in Civil Services Examination.
 
-What Plutus IAS Offers:
+What Plutus IAS Offers
 
 General Studies (GS): Prelims & Mains
 

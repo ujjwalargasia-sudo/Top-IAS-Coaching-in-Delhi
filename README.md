@@ -10,7 +10,7 @@ What Plutus IAS Offers
 
 General Studies (GS): Prelims & Mains
 
-Optional Subjects: Anthropology, Sociology, Public Administration, etc.
+Optional Subjects: Anthropology, Sociology, Public Administration, etc
 
 CSAT & Test Series
 

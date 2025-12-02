@@ -8,7 +8,7 @@ Plutus IAS is one of the Top IAS Coaching institutes in Delhi, offering comprehe
 
 What Plutus IAS Offers
 
-General Studies (GS): Prelims & Mains
+General Studies (GS): Prelims & Mains 
 
 Optional Subjects: Anthropology, Sociology, Public Administration, etc
 

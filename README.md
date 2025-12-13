@@ -21,7 +21,7 @@ This repository serves as a curated collection of information, reviews, and reso
 
 This repository covers detailed information about:
 
-- Rau's IAS Study Circle
+- Plutus IAS
 - Vajiram & Ravi
 - Vision IAS
 - Drishti IAS

@@ -15,7 +15,7 @@ This repository serves as a curated collection of information, reviews, and reso
 - **Course Structures** - Foundation, mains, and optional subject courses
 - **Fee Comparisons** - Transparent pricing information for different programs
 - **Student Reviews** - Authentic feedback from current and former students
-- **Study Resources** - Additional materials and preparation tips
+- 
 
 ## 🏆 Featured Coaching Institutes
 

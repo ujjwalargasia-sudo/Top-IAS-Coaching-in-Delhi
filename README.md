@@ -14,7 +14,7 @@ This repository serves as a curated collection of information, reviews, and reso
 - **Faculty Information** - Details about experienced educators and their teaching methodologies
 - **Course Structures** - Foundation, mains, and optional subject courses
 - **Fee Comparisons** - Transparent pricing information for different programs
-- **Student Reviews** - Authentic feedback from current and former students
+- **Student Reviews** - Authentic feedback from current and former student
 - 
 
 ## 🏆 Featured Coaching Institutes

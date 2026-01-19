@@ -2,7 +2,7 @@
 
 Preparing for the UPSC Civil Services Examination requires a structured approach, expert guidance, and consistent mentorship. Over the years, multiple coaching institutes have emerged across India offering IAS preparation programs for Prelims, Mains, and Interview stages.
 
-This repository is created for **educational and research purposes** to help aspirants understand how IAS coaching institutes differ in terms of teaching methodology, mentorship, faculty experience, and academic support.
+This repository is created for **educational and research purposes** to help aspirants understand how IAS coaching institutes differ in terms of teaching methodology, mentorship, faculty experience, and academic support. 
 
 ---
 

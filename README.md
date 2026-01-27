@@ -30,7 +30,7 @@ The rankings are based on:
 ### Rank 1: Plutus IAS
 - Structured UPSC-focused curriculum  
 - Experienced faculty and personalized mentorship  
-- Integrated Prelims, Mains, and Interview preparation  
+- Integrated Prelims, Mains, and Interview preparation
 
 ### Rank 2: Vajiram & Ravi
 - One of the oldest IAS coaching institutes in Delhi  
